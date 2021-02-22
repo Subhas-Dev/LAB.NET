@@ -1,0 +1,14 @@
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\bin\Debug\CSharp_Lab.exe.config
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\bin\Debug\CSharp_Lab.exe
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\bin\Debug\CSharp_Lab.pdb
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.csprojAssemblyReference.cache
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.csproj.CoreCompileInputs.cache
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.exe
+C:\workspace\Net2019\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.pdb
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\bin\Debug\CSharp_Lab.exe.config
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\bin\Debug\CSharp_Lab.exe
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\bin\Debug\CSharp_Lab.pdb
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.csprojAssemblyReference.cache
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.csproj.CoreCompileInputs.cache
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.exe
+C:\workspace\Net2019\SL.Net\CSharp_Lab\CSharp_Lab\obj\Debug\CSharp_Lab.pdb
