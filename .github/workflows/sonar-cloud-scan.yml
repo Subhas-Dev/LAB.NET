@@ -1,5 +1,6 @@
 ## GitHub Actions ##
-name: Sonar Cloud Scan
+name: SonarCloud Scan
+
 #
 # Documentation:
 # # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions
@@ -17,9 +18,10 @@ on:
 #############################
 # Set The job  
 #############################
+
 jobs:
   # This workflow contains a single job called
-  SonarCloudTrigger:
+  SonarCloud Trigger:
     runs-on: ubuntu-latest
     steps:
       - name: Clone Repository
