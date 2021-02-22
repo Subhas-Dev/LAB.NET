@@ -13,8 +13,7 @@ on:
   push:
     branches:
       - "master"
-      - "feature*"
-	  
+      - "feature*"  
 ###############################
 # Set The Job
 # runs-on: ubuntu-latest, windows-latest
